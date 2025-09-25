@@ -1,0 +1,10 @@
+C:\Users\gorke\OneDrive\Masaüstü\c#\FinalÖdevProje\bin\Debug\FinalÖdevProje.exe.config
+C:\Users\gorke\OneDrive\Masaüstü\c#\FinalÖdevProje\bin\Debug\FinalÖdevProje.exe
+C:\Users\gorke\OneDrive\Masaüstü\c#\FinalÖdevProje\bin\Debug\FinalÖdevProje.pdb
+C:\Users\gorke\OneDrive\Masaüstü\c#\FinalÖdevProje\obj\Debug\FinalÖdevProje.csproj.AssemblyReference.cache
+C:\Users\gorke\OneDrive\Masaüstü\c#\FinalÖdevProje\obj\Debug\FinalÖdevProje.Form1.resources
+C:\Users\gorke\OneDrive\Masaüstü\c#\FinalÖdevProje\obj\Debug\FinalÖdevProje.Properties.Resources.resources
+C:\Users\gorke\OneDrive\Masaüstü\c#\FinalÖdevProje\obj\Debug\FinalÖdevProje.csproj.GenerateResource.cache
+C:\Users\gorke\OneDrive\Masaüstü\c#\FinalÖdevProje\obj\Debug\FinalÖdevProje.csproj.CoreCompileInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\c#\FinalÖdevProje\obj\Debug\FinalÖdevProje.exe
+C:\Users\gorke\OneDrive\Masaüstü\c#\FinalÖdevProje\obj\Debug\FinalÖdevProje.pdb
